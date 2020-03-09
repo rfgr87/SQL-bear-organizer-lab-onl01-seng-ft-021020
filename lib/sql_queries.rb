@@ -1,4 +1,6 @@
 def selects_all_female_bears_return_name_and_age
+  "SELECT * "
+  
   "Write your SQL query here"
 end
 
