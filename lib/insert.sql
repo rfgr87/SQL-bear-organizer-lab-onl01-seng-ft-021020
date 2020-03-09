@@ -11,3 +11,5 @@ INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ('Melissa
 INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ('Grinch', 7, 'Male', 'Black', 'Though', true);
 
 INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES ('Wendy', 7, 'Female', 'Brown', 'Caring', true);
+
+INSERT INTO cats (name, age, gender, color, temperament, alive) VALUES (NULL, 3, 'Male', 'Chocolate', 'Caring', true);
