@@ -1,5 +1,5 @@
 def selects_all_female_bears_return_name_and_age
-  "SELECT * FROM bears WHERE gender "
+  "SELECT * FROM bears WHERE gender = F;"
   
   "Write your SQL query here"
 end
